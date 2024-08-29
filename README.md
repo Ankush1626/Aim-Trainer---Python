@@ -1,4 +1,11 @@
 Aim Trainer Game (Python)
+
+<div align="center">
+<img src="https://github.com/Ankush1626/Aim-Trainer---Python/blob/main/Aim%20Trainer.gif" align="center" style="width: 100%" />
+</div>  
+
+<br/>
+
 Objective: The goal of the game is to improve your aim by clicking on targets as quickly and accurately as possible before they disappear.
 
 How to Play:
