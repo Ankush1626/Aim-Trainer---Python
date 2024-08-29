@@ -1,4 +1,4 @@
-Aim Trainer Game (Python)
+# Aim Trainer Game 
 
 <div align="center">
 <img src="https://github.com/Ankush1626/Aim-Trainer---Python/blob/main/Aim%20Trainer.gif" align="center" style="width: 100%" />
